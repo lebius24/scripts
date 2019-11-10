@@ -6,12 +6,12 @@
 "script_options": {
 	"get_task":false,
 	"hours_leave": [9],
-	"skill_train":"club"
+	"skill_train":"axe"
 },
 "containers": 
 {
-	"gold_bp":"Backpack of Holding",
-	"loot_bp":"Red Backpack"
+	"gold_bp":"orange backpack",
+	"loot_bp":"blue backpack"
 },
 "tools":
 {
@@ -25,7 +25,7 @@
 "spells":
 {
 	"exura ico":"f3",
-	"exori ico":"q"
+	"exori ico":"f5"
 },
 "healing":
 [
@@ -34,7 +34,7 @@
 	{"type":"mp", "below_percent":30, "use_item":"mana potion", "priority":1}
 ],
 "hunt_config": {
-	"cap_leave": 60,
+	"cap_leave": 20,
 	"mana_name": "mana potion",
 	"take_mana": 100,
 	"mana_leave": 10,
